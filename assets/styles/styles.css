@@ -1102,3 +1102,7 @@ a {
     font-weight: 500;
     line-height: 2.25;
 }
+
+.footer-right li a:hover{
+    color: #FFF;
+}
