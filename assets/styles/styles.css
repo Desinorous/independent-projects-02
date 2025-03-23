@@ -774,7 +774,9 @@ a {
 
 .project-video {
     position: relative;
+    cursor: pointer;
 }
+
 
 .project-video #project-video {
     margin: 65px 0;
@@ -803,6 +805,7 @@ a {
     transform: translate(-50%, -50%);
     background: none;
     border: none;
+    cursor: pointer;
 }
 
 #project-video::-webkit-media-controls-play-button {
@@ -1103,6 +1106,6 @@ a {
     line-height: 2.25;
 }
 
-.footer-right li a:hover{
+.footer-right li a:hover {
     color: #FFF;
 }
